@@ -1,4 +1,4 @@
 interface:
   display_name: "Cross-Platform Content Operator"
   short_description: "Evidence-bound platform content plans"
-  default_prompt: "Create a truthful content plan for my product across selected platforms."
+  default_prompt: "Use cross-platform-content-operator to create a truthful, platform-specific content plan from my available evidence; ask one critical question at a time and wait for my choice before expanding multiple directions."
