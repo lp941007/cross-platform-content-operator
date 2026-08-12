@@ -1,8 +1,12 @@
 # Cross-Platform Content Operator
 
-面向抖音、视频号、小红书、快手、B站、微信公众号等平台的内容运营 Agent Skill。它根据产品或服务的真实资料，生成平台适配的运营方向、选题、文案、脚本、分镜、BGM规格、拍摄流程和可复盘的测试方案。
+面向抖音、视频号、小红书、快手、B站、微信公众号等平台的内容运营 Agent Skill。它根据产品或服务的真实资料，生成平台适配的运营方向、选题、文案、脚本、分镜、BGM规格、拍摄流程和可复盘的测试方案，并对医疗等高风险内容执行资质、广告、隐私和平台准入检查。
 
 核心原则：保留真实事实，改变平台表达；不编造卖点、案例、政策或数据，不保证播放量、咨询量和成交量。
+
+An evidence-bound Agent Skill for cross-platform content operations on Douyin, WeChat Channels, Xiaohongshu, Kuaishou, Bilibili, WeChat Official Accounts, and other platforms. It turns verified product or service information into platform-specific topics, copy, scripts, storyboards, BGM directions, production plans, and measurable tests, with qualification, advertising, privacy, and platform-admission checks for regulated content such as healthcare.
+
+Core principle: preserve the facts and adapt the expression. Never invent claims, cases, policies, or data, and never guarantee views, leads, or sales.
 
 ## 适用场景
 
@@ -16,6 +20,17 @@
 - 对诊所、医疗服务、医疗器械、医师和健康科普执行“国家法规＋平台规则＋账号资质＋审查样件”检查。
 - 医疗内容先区分主体与发布场景，再分别检查平台准入、广告审查、线上诊疗、患者隐私、药品或器械销售资质；其中任何一项获准，都不能代替其他许可。
 - 对非医疗养生机构的针刺等侵入性服务、处方药互联网广告、普通评论或私信中的个体诊断和开方、未经授权的患者资料，以及未经复核或未按要求标识的AI医疗内容执行硬停止。
+
+## Use cases
+
+- Build platform-specific content strategies for products, services, local businesses, founder IPs, and organizations.
+- Adapt one verified evidence set for multiple platforms instead of reposting the same draft unchanged.
+- Produce topics, titles, hooks, spoken scripts, storyboards, captions, covers, publishing copy, and comment guidance.
+- Plan BGM direction, filming, staffing, budget allocation, publishing cadence, organic tests, paid tests, and performance reviews.
+- Continue from incomplete briefs by asking one high-impact question at a time and labelling conservative assumptions.
+- Present a compact comparison when multiple directions exist, then wait for the user's choice before producing the full execution pack.
+- Audit regulated content involving healthcare, medical services, medical devices, physicians, health education, minors, privacy, copyright, and advertising.
+- Apply hard stops to unlicensed invasive TCM services, prescription-drug internet advertising, informal diagnosis or prescribing in comments/private messages, unauthorized patient data, and unverified or improperly labelled AI medical content.
 
 ## 工作方式
 
@@ -154,15 +169,31 @@ If an Agent implements the Agent Skills specification but is not supported by th
 
 Compatibility means the Agent can load standard Agent Skills. It does not mean every AI product supports skills, nor that every Agent exposes the same tools.
 
-## 更新 Skill
+## 更新 Skill / Update the Skill
 
-使用 `skills` CLI 安装的用户可以运行：
+使用 `skills` CLI 安装的用户，可以运行下面的命令获取 GitHub 上的最新版本：
+
+Users who installed with the `skills` CLI can fetch the latest version from GitHub with:
 
 ```bash
 npx -y skills update cross-platform-content-operator
 ```
 
-WorkBuddy 用户需要重新下载最新仓库 ZIP，并在技能管理页面重新导入或更新。更新前建议查看变更内容；第三方 Skill 会以用户授权的权限运行。
+如果当前 Agent 或 CLI 不支持 `update`，重新执行安装命令并按界面提示覆盖旧版本：
+
+If the current Agent or CLI does not support `update`, run the installation command again and approve replacing the existing copy when prompted:
+
+```bash
+npx -y skills add lp941007/cross-platform-content-operator --skill cross-platform-content-operator --copy
+```
+
+更新后请重启 Agent 或新建会话，并确认已加载新版 `SKILL.md` 和整个 `references/` 目录。
+
+After updating, restart the Agent or open a new session, and confirm that the latest `SKILL.md` and the complete `references/` directory are loaded.
+
+WorkBuddy 用户需要重新下载最新仓库 ZIP，在技能管理页面重新导入或更新整个文件夹；不要只替换 `SKILL.md`。WorkBuddy users should download the newest repository ZIP and re-import or update the complete folder in Skill management; do not replace `SKILL.md` alone.
+
+更新前建议查看仓库变更；第三方 Skill 会以用户授权的权限运行。Review repository changes before updating; third-party Skills run with the permissions granted by the user.
 
 ## 使用边界
 

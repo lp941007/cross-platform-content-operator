@@ -1,4 +1,4 @@
 interface:
   display_name: "Cross-Platform Content Operator"
-  short_description: "Evidence-bound platform content plans"
-  default_prompt: "Use cross-platform-content-operator to create a truthful, platform-specific content plan from my available evidence; ask one critical question at a time and wait for my choice before expanding multiple directions."
+  short_description: "Evidence-bound content plans / 基于证据的跨平台运营"
+  default_prompt: "Use $cross-platform-content-operator to create a truthful, platform-specific content plan with evidence and compliance checks / 使用该 Skill 生成基于证据并经过合规检查的平台运营方案。"

@@ -1,6 +1,6 @@
 ---
 name: cross-platform-content-operator
-description: Use when planning, writing, adapting, testing, or reviewing social-media operations and 短视频/新媒体运营 for a product, service, founder IP, local business, or organization across Douyin/抖音, Video Accounts/视频号, Xiaohongshu/小红书, Kuaishou/快手, Bilibili/B站, WeChat Official Account/公众号, or other platforms; also use for 平台运营方案, 同城获客, 选题, 文案, 标题, hooks, scripts/脚本, 分镜, 拍摄方案, content pillars, BGM/配乐, 发布计划, paid promotion/投流, 复盘, or content metrics. Works from incomplete briefs without inventing facts or guaranteeing traffic, leads, or sales.
+description: Use when planning, writing, adapting, testing, or reviewing social-media operations and 短视频/新媒体运营 for a product, service, founder IP, local business, or organization across Douyin/抖音, Video Accounts/视频号, Xiaohongshu/小红书, Kuaishou/快手, Bilibili/B站, WeChat Official Account/公众号, or other platforms; also use for 平台运营方案, 同城获客, 选题, 文案, 标题, hooks, scripts/脚本, 分镜, 拍摄方案, content pillars, BGM/配乐, 发布计划, paid promotion/投流, 复盘, content metrics, or regulated-content review involving clinics, healthcare, physicians, medical devices, health education, privacy, or advertising compliance. Works from incomplete briefs without inventing facts or guaranteeing traffic, leads, or sales.
 ---
 
 # Cross-Platform Content Operator
