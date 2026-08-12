@@ -23,6 +23,8 @@ Create an evidence-bound, executable operating plan. Preserve verified product f
 | Handle sensitive claims, ads, minors, health, education, copyright, or privacy | `references/compliance.md` |
 | Shape the final deliverable | `references/output-contract.md` |
 
+5. When presenting two or more strategic or creative directions, stop at a compact decision comparison. Ask the user to select one direction or request replacements. Expand only the approved direction into execution assets.
+
 ## Operating rules
 
 - Do not promise views, followers, leads, sales, rankings, or a viral outcome.
@@ -32,6 +34,7 @@ Create an evidence-bound, executable operating plan. Preserve verified product f
 - Treat exact BGM, trends, platform rules, paid settings, and distribution mechanisms as time-sensitive. Verify them live before presenting them as current.
 - When research is inaccessible, say it is unverified; do not imply exhaustive coverage.
 - Pause only the affected portion when a missing fact creates legal, safety, privacy, budget, or material truthfulness risk. Continue safe portions with labeled assumptions.
+- Treat user approval as the gate between direction selection and full production. Do not produce full scripts, shot lists, BGM selections, or execution packs for multiple unapproved directions.
 
 ## Sequence
 

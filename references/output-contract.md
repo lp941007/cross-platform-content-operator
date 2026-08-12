@@ -18,3 +18,17 @@ For multi-platform requests, distinguish the shared factual/source-material mast
 ## Decision-ready format
 
 Use concise tables where several platforms need equivalent fields. Mark actions as `do now`, `test`, `verify before use`, or `needs user input`.
+
+## Two-phase delivery
+
+If the response contains two or more strategic or creative directions, phase 1 is a decision artifact rather than a production package. Include:
+
+1. direction name and one-sentence concept;
+2. intended audience need and objective;
+3. core content mechanism;
+4. evidence or material required;
+5. production difficulty and main risk;
+6. recommendation with a reason;
+7. one request to select a direction or request replacements.
+
+After the user approves one direction, phase 2 must provide the complete execution package for that direction, including the applicable script, shot plan, BGM specification, publishing assets, attention points, approvals, and measurement plan.
