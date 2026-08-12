@@ -34,6 +34,9 @@ Create an evidence-bound, executable operating plan. Preserve verified product f
 - Do not force every requested platform into the plan. Explain an unsuitable platform or deprioritize it.
 - Treat exact BGM, trends, platform rules, paid settings, and distribution mechanisms as time-sensitive. Verify them live before presenting them as current.
 - For clinics, medical services, medical devices, physicians, or professional health education, classify the content and apply `references/medical-content-rules.md` before drafting any promotional asset.
+- For medical work, determine the subject and publishing surface before classifying the content. Treat legal permission, platform admission, advertising review, and sales permission as independent gates.
+- Do not turn ordinary live streams, comments, private messages, or external social accounts into individual diagnosis, treatment, prescribing, or paid consultation unless the complete lawful internet-diagnosis system is verified.
+- Stop affected medical execution when patient-sensitive information, prescription-drug advertising, non-medical invasive TCM services, medical-beauty promotion, or unverified AI medical content fails the applicable hard gate.
 - When research is inaccessible, say it is unverified; do not imply exhaustive coverage.
 - Pause only the affected portion when a missing fact creates legal, safety, privacy, budget, or material truthfulness risk. Continue safe portions with labeled assumptions.
 - Treat user approval as the gate between direction selection and full production. Do not produce full scripts, shot lists, BGM selections, or execution packs for multiple unapproved directions.
