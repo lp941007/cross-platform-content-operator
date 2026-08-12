@@ -13,6 +13,7 @@
 - 设计自然流量或付费测试，确定指标、停止条件和复盘方法。
 - 处理资料不完整的需求：优先一次询问一个关键问题，其余部分用明确标注的保守假设继续。
 - 识别医疗、教育、未成年人、隐私、版权和广告宣传等高风险内容。
+- 对诊所、医疗服务、医疗器械、医师和健康科普执行“国家法规＋平台规则＋账号资质＋审查样件”检查。
 
 ## 工作方式
 
@@ -183,5 +184,6 @@ cross-platform-content-operator/
     ├── music-and-audio.md
     ├── testing-and-metrics.md
     ├── compliance.md
+    ├── medical-content-rules.md
     └── output-contract.md
 ```

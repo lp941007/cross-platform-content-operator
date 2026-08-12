@@ -15,6 +15,8 @@ For cosmetics and skincare, separate ingredient evidence, finished-product testi
 
 Do not state guaranteed outcomes, absolute safety, superiority without support, fabricated reviews, or unverified rankings. For sensitive areas, request the exact evidence, approval, jurisdiction, or consent needed; provide a safer alternative focusing on process, factual conditions, and user decision information.
 
+For clinics, medical services, medical devices, physicians, or professional health education, read `medical-content-rules.md`. Distinguish institution information, independent education, institution/service advertising, device advertising, and professional medical content before writing. Do not treat an institution licence, physician credential, platform certification, advertising-review document, or product registration as substitutes for one another.
+
 ## Minors and education results
 
 Before using a minor's image or voice, require guardian authorization covering platform, purpose, material, duration, and a withdrawal contact. Do not reveal name, school, contact details, identifiable performance information, or other unnecessary identifiers. Until this is complete, use an alternative without a child's identifiable face, voice, identity, or score information. Do not promise an individual learning result. When describing evidence, state the verifiable sample, conditions, measurement method, and time range.
